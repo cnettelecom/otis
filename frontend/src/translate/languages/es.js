@@ -227,7 +227,7 @@ const messages = {
         },
       },
       ticketsQueueSelect: {
-        placeholder: "Lineas",
+        placeholder: "Linhas",
       },
       tickets: {
         toasts: {
@@ -288,7 +288,7 @@ const messages = {
           tickets: "Tickets",
           contacts: "Contactos",
           quickAnswers: "Respuestas rápidas",
-          queues: "Lineas",
+          queues: "Linhas",
           administration: "Administración",
           users: "Usuarios",
           settings: "Configuración",
@@ -304,7 +304,7 @@ const messages = {
         noTickets: "Sin notificaciones.",
       },
       queues: {
-        title: "Lineas",
+        title: "Linhas",
         table: {
           name: "Nombre",
           color: "Color",
@@ -321,7 +321,7 @@ const messages = {
         },
       },
       queueSelect: {
-        inputLabel: "Lineas",
+        inputLabel: "Linhas",
       },
       quickAnswers: {
         title: "Respuestas rápidas",
